@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T14:49:37.040Z" agent="5.0 (Windows)" etag="6z7N5yiLVd281iLMipM1" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T14:50:50.688Z" agent="5.0 (Windows)" etag="NVPlOffmuPi3mRBd8S2x" version="14.2.3" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a41Xc3c4UvRuNH48oTIH-6" value="Felhasználó" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="170" width="40" height="20" as="geometry" />
+          <mxGeometry x="30" y="160" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a41Xc3c4UvRuNH48oTIH-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VDja91TDTHWUjQdQ_YD6-5" target="a41Xc3c4UvRuNH48oTIH-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
