@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T14:47:34.708Z" agent="5.0 (Windows)" etag="m3GjxW5fnra0is-cquuu" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T14:49:37.040Z" agent="5.0 (Windows)" etag="6z7N5yiLVd281iLMipM1" version="14.2.3" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VDja91TDTHWUjQdQ_YD6-5" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="75" y="200" width="30" height="60" as="geometry" />
+          <mxGeometry x="30" y="195" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VDja91TDTHWUjQdQ_YD6-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="270" y="10" width="200" height="200" as="geometry" />
@@ -168,20 +168,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a-5dXLb5nucpu_UxBbyH-5" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="530" as="sourcePoint" />
-            <mxPoint x="310" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a-5dXLb5nucpu_UxBbyH-7" value="" style="endArrow=none;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" as="sourcePoint" />
-            <mxPoint x="160" y="1058" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a-5dXLb5nucpu_UxBbyH-8" value="Regressziós keretrendszer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a-5dXLb5nucpu_UxBbyH-9" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" as="sourcePoint" />
+            <mxPoint x="140" y="822" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
