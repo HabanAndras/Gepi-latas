@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T12:15:22.464Z" agent="5.0 (Windows)" etag="Fte7DJGT_B9efP_C88tb" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T13:36:23.036Z" agent="5.0 (Windows)" etag="sVJ8eJ9feaI7nCqhQusd" version="14.2.3" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -56,7 +56,13 @@
           <mxGeometry x="310" y="570" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VDja91TDTHWUjQdQ_YD6-22" value="Adatbázisok listázása" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="610" width="87.5" height="50" as="geometry" />
+          <mxGeometry x="338.75" y="610" width="87.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="REEc4GssUIr_2HfboARU-1" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VDja91TDTHWUjQdQ_YD6-22" target="VDja91TDTHWUjQdQ_YD6-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="570" as="sourcePoint" />
+            <mxPoint x="440" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
