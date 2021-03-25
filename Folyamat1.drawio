@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T13:46:16.065Z" agent="5.0 (Windows)" etag="RG44CoBn4rCX4sZm0W6S" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T13:49:20.081Z" agent="5.0 (Windows)" etag="_28K02fnnqLE9_2f0e-r" version="14.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry x="170" y="25" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KxpvpoARknzrcg4h2MVn-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="656.25" y="495" width="30" height="30" as="geometry" />
+          <mxGeometry x="640" y="495" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KxpvpoARknzrcg4h2MVn-28" value="Adatok feldolgozva" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="700" y="505" width="40" height="20" as="geometry" />
+        <mxCell id="KxpvpoARknzrcg4h2MVn-28" value="Kész" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="690" y="500" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pTGe__EHcTmfKwiUst2--0" value="&lt;b&gt;Új projekt?&lt;br&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="97.5" y="318.75" width="75" height="65" as="geometry" />
@@ -102,16 +102,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pTGe__EHcTmfKwiUst2--33" value="Adatok beolvasása a megadott fájlból" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="85" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="pTGe__EHcTmfKwiUst2--34" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pTGe__EHcTmfKwiUst2--33" target="pTGe__EHcTmfKwiUst2--35">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="290" as="sourcePoint" />
-            <mxPoint x="640" y="170" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="590" y="82.5" width="130" height="55" as="geometry" />
         </mxCell>
         <mxCell id="pTGe__EHcTmfKwiUst2--35" value="Szükségtelen karakterek eltüntetése" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="157.5" width="100" height="70" as="geometry" />
+          <mxGeometry x="605" y="157.5" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pTGe__EHcTmfKwiUst2--45" value="Bemeneti adatkészlet lebegőpontos számmá konvertálása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="216.25" y="304.38" width="143.75" height="71.25" as="geometry" />
@@ -126,7 +120,7 @@
           <mxGeometry x="420" y="312.5" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="pTGe__EHcTmfKwiUst2--56" value="Igen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="555" y="85" width="40" height="20" as="geometry" />
+          <mxGeometry x="550" y="82.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pTGe__EHcTmfKwiUst2--64" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pTGe__EHcTmfKwiUst2--35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -141,10 +135,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pTGe__EHcTmfKwiUst2--66" value="Kimeneti értékek lebegőpontos számmá alakítása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="612.5" y="246.25" width="115" height="72.5" as="geometry" />
+          <mxGeometry x="597.5" y="246.25" width="115" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="pTGe__EHcTmfKwiUst2--68" value="Árak amerikai dollárrá váltása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="333.75" width="100" height="50" as="geometry" />
+          <mxGeometry x="605" y="333.75" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pTGe__EHcTmfKwiUst2--71" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pTGe__EHcTmfKwiUst2--66" target="pTGe__EHcTmfKwiUst2--68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -153,7 +147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pTGe__EHcTmfKwiUst2--73" value="Árak logaritmizálása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="400" width="82.5" height="65" as="geometry" />
+          <mxGeometry x="608.75" y="397.5" width="92.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="pTGe__EHcTmfKwiUst2--74" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pTGe__EHcTmfKwiUst2--73" target="KxpvpoARknzrcg4h2MVn-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -205,6 +199,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pTGe__EHcTmfKwiUst2--100" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pTGe__EHcTmfKwiUst2--95" target="pTGe__EHcTmfKwiUst2--96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="310" as="sourcePoint" />
+            <mxPoint x="580" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTGe__EHcTmfKwiUst2--101" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pTGe__EHcTmfKwiUst2--33" target="pTGe__EHcTmfKwiUst2--35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="310" as="sourcePoint" />
             <mxPoint x="580" y="260" as="targetPoint" />
