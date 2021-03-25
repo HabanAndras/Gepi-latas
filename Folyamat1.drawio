@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T14:33:41.422Z" agent="5.0 (Windows)" etag="go9cYIar18yRiwr9Bd0z" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T14:35:23.757Z" agent="5.0 (Windows)" etag="ZfypI1I_9Jm_odHzRMGO" version="14.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="170" y="50" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KxpvpoARknzrcg4h2MVn-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="266.56" y="486.25" width="35" height="35" as="geometry" />
+          <mxGeometry x="256.57" y="486.25" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pTGe__EHcTmfKwiUst2--0" value="&lt;b&gt;Új projekt?&lt;br&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="97.5" y="318.75" width="75" height="65" as="geometry" />
@@ -181,7 +181,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hG3pr5E_VNpW_CgygLNz-3" value="Projekt információk és adatkészletek mentése" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="390" width="128.13" height="80" as="geometry" />
+          <mxGeometry x="200" y="390" width="148.13" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hG3pr5E_VNpW_CgygLNz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -214,7 +214,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hG3pr5E_VNpW_CgygLNz-18" value="Kész" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="308.13" y="493.75" width="40" height="20" as="geometry" />
+          <mxGeometry x="300" y="493.75" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hG3pr5E_VNpW_CgygLNz-19" value="&lt;b&gt;Minden adat feldolgozva&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="455" y="411.25" width="80" height="37.5" as="geometry" />
