@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T11:45:17.131Z" agent="5.0 (Windows)" etag="6uHNSbeKUD_ijFmCoG6H" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T11:27:22.250Z" agent="5.0 (Windows)" etag="7CuwIJW3hOjeYdoRZaU7" version="14.5.1" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="30" y="195" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VDja91TDTHWUjQdQ_YD6-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="270" y="10" width="200" height="200" as="geometry" />
+          <mxGeometry x="225" y="10" width="280" height="280" as="geometry" />
         </mxCell>
         <mxCell id="VDja91TDTHWUjQdQ_YD6-7" value="Indítás" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="10" width="90" height="40" as="geometry" />
+          <mxGeometry x="225" y="10" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VDja91TDTHWUjQdQ_YD6-10" value="Program futtatása" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="60" width="70" height="40" as="geometry" />
+        <mxCell id="VDja91TDTHWUjQdQ_YD6-10" value="Futtatási mód kiválasztása" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="262.5" y="60" width="197.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VDja91TDTHWUjQdQ_YD6-11" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VDja91TDTHWUjQdQ_YD6-5" target="VDja91TDTHWUjQdQ_YD6-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -22,133 +22,33 @@
             <mxPoint x="470" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VDja91TDTHWUjQdQ_YD6-12" value="Regressziós modellek listázása" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="369" y="80" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VDja91TDTHWUjQdQ_YD6-14" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="VDja91TDTHWUjQdQ_YD6-12" target="VDja91TDTHWUjQdQ_YD6-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="600" as="sourcePoint" />
-            <mxPoint x="470" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VDja91TDTHWUjQdQ_YD6-17" value="Modell választás" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="150" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VDja91TDTHWUjQdQ_YD6-18" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VDja91TDTHWUjQdQ_YD6-5" target="VDja91TDTHWUjQdQ_YD6-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="600" as="sourcePoint" />
-            <mxPoint x="470" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VDja91TDTHWUjQdQ_YD6-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="225" width="200" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="VDja91TDTHWUjQdQ_YD6-22" value="Adatbázisok listázása" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="280" width="87.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-1" value="Adatbázis kiválasztása" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="330" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-5" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VDja91TDTHWUjQdQ_YD6-22" target="VDja91TDTHWUjQdQ_YD6-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="600" as="sourcePoint" />
-            <mxPoint x="440" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a41Xc3c4UvRuNH48oTIH-6" value="Felhasználó" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="160" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VDja91TDTHWUjQdQ_YD6-5" target="a41Xc3c4UvRuNH48oTIH-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="600" as="sourcePoint" />
-            <mxPoint x="440" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a41Xc3c4UvRuNH48oTIH-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="277.5" y="410" width="170" height="170" as="geometry" />
+          <mxGeometry x="232.5" y="320" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-9" value="Előkészítés" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="277.5" y="410" width="100" height="35" as="geometry" />
+        <mxCell id="a41Xc3c4UvRuNH48oTIH-9" value="Adatok előkészítése" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="232.5" y="320" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-10" value="Adatok beolvasása" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="450" width="80" height="40" as="geometry" />
+        <mxCell id="a41Xc3c4UvRuNH48oTIH-20" value="Feldolgozás kiiratása" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="244" y="430" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-11" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a41Xc3c4UvRuNH48oTIH-1" target="a41Xc3c4UvRuNH48oTIH-10" edge="1">
+        <mxCell id="a41Xc3c4UvRuNH48oTIH-21" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="a41Xc3c4UvRuNH48oTIH-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="600" as="sourcePoint" />
-            <mxPoint x="440" y="550" as="targetPoint" />
+            <mxPoint x="45" y="225" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-12" value="Adatok feldolgozása" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="480" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-14" value="Tanulás indítás" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="367.5" y="532.5" width="80" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="272.5" y="600" width="180" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-17" value="Szálláshely árainak meghatározása" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="272.5" y="600" width="97.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-18" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a41Xc3c4UvRuNH48oTIH-10" target="a41Xc3c4UvRuNH48oTIH-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="600" as="sourcePoint" />
-            <mxPoint x="440" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-20" value="Tanulási folyamat kiiratása" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="530" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-21" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="a41Xc3c4UvRuNH48oTIH-20" target="VDja91TDTHWUjQdQ_YD6-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="600" as="sourcePoint" />
-            <mxPoint x="440" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-26" value="Árak kiszámítása" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="371.5" y="600" width="76" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-27" value="Árak osztályozása" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="272.5" y="660" width="85" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="a-5dXLb5nucpu_UxBbyH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="a41Xc3c4UvRuNH48oTIH-28" target="VDja91TDTHWUjQdQ_YD6-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="219" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-28" value="Eredmény kiiratása" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="275" y="730" width="80" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="a41Xc3c4UvRuNH48oTIH-38" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a41Xc3c4UvRuNH48oTIH-12" target="a41Xc3c4UvRuNH48oTIH-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="570" as="sourcePoint" />
-            <mxPoint x="440" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VDja91TDTHWUjQdQ_YD6-21" value="Bemenet megadása" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="225" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="a-5dXLb5nucpu_UxBbyH-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VDja91TDTHWUjQdQ_YD6-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="331.96000000000004" y="188" as="sourcePoint" />
-            <mxPoint x="400" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a-5dXLb5nucpu_UxBbyH-2" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VDja91TDTHWUjQdQ_YD6-10" target="VDja91TDTHWUjQdQ_YD6-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="240" as="sourcePoint" />
-            <mxPoint x="310" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a-5dXLb5nucpu_UxBbyH-3" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a41Xc3c4UvRuNH48oTIH-20" target="a41Xc3c4UvRuNH48oTIH-14" edge="1">
+        <mxCell id="a-5dXLb5nucpu_UxBbyH-3" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="a41Xc3c4UvRuNH48oTIH-20" target="LnnYWxtxsYJN01czpEKV-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="580" as="sourcePoint" />
-            <mxPoint x="310" y="530" as="targetPoint" />
+            <mxPoint x="367.5" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a-5dXLb5nucpu_UxBbyH-8" value="Regressziós keretrendszer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="10" width="80" height="30" as="geometry" />
+          <mxGeometry x="140" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a-5dXLb5nucpu_UxBbyH-9" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -156,31 +56,199 @@
             <mxPoint x="140" y="822" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbRDL1AC_Kkd11FwaTaz-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a41Xc3c4UvRuNH48oTIH-14" target="a41Xc3c4UvRuNH48oTIH-26">
+        <mxCell id="LnnYWxtxsYJN01czpEKV-2" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDja91TDTHWUjQdQ_YD6-6" target="VDja91TDTHWUjQdQ_YD6-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="570" as="sourcePoint" />
-            <mxPoint x="440" y="520" as="targetPoint" />
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="430" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbRDL1AC_Kkd11FwaTaz-2" value="Eredményesség számítása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="690" width="100" height="60" as="geometry" />
+        <mxCell id="LnnYWxtxsYJN01czpEKV-4" value="&lt;b&gt;if: Új projekt&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="150" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JbRDL1AC_Kkd11FwaTaz-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a41Xc3c4UvRuNH48oTIH-26" target="a41Xc3c4UvRuNH48oTIH-27">
+        <mxCell id="LnnYWxtxsYJN01czpEKV-5" value="Projektnév és fájlnév kérése" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-6" value="" style="endArrow=classic;html=1;exitX=0.03;exitY=0.36;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="LnnYWxtxsYJN01czpEKV-5" target="VDja91TDTHWUjQdQ_YD6-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="570" as="sourcePoint" />
-            <mxPoint x="440" y="520" as="targetPoint" />
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="430" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbRDL1AC_Kkd11FwaTaz-4" value="" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a41Xc3c4UvRuNH48oTIH-27" target="JbRDL1AC_Kkd11FwaTaz-2">
+        <mxCell id="LnnYWxtxsYJN01czpEKV-7" value="Kért adatok megadása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="180" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDja91TDTHWUjQdQ_YD6-5" target="LnnYWxtxsYJN01czpEKV-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="570" as="sourcePoint" />
-            <mxPoint x="440" y="520" as="targetPoint" />
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="430" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbRDL1AC_Kkd11FwaTaz-5" value="" style="endArrow=classic;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbRDL1AC_Kkd11FwaTaz-2" target="a41Xc3c4UvRuNH48oTIH-28">
+        <mxCell id="LnnYWxtxsYJN01czpEKV-22" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VDja91TDTHWUjQdQ_YD6-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="570" as="sourcePoint" />
-            <mxPoint x="440" y="520" as="targetPoint" />
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="361" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="504" y="240" as="sourcePoint" />
+            <mxPoint x="222" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-28" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;else:&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="225" y="240" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-29" value="Meglévő projekt megnyitása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="102.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-32" value="Adatok betöltése" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="250" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-33" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LnnYWxtxsYJN01czpEKV-29" target="LnnYWxtxsYJN01czpEKV-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="430" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-34" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LnnYWxtxsYJN01czpEKV-7" target="a41Xc3c4UvRuNH48oTIH-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="420" as="sourcePoint" />
+            <mxPoint x="520" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="205" />
+              <mxPoint x="520" y="363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-35" value="Adatok beolvasása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-36" value="Adatok feldolgozása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323.13" y="370" width="76.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-37" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LnnYWxtxsYJN01czpEKV-35" target="LnnYWxtxsYJN01czpEKV-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="420" as="sourcePoint" />
+            <mxPoint x="430" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="420" width="162.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-41" value="Regressziós modell kiválasztása" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="420" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-42" value="Regressziós modellek listázása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="480" width="87.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-43" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LnnYWxtxsYJN01czpEKV-42" target="VDja91TDTHWUjQdQ_YD6-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="440" as="sourcePoint" />
+            <mxPoint x="70" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-44" value="Modell és tanulás/teszt arány megadása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="540" width="112.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-45" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDja91TDTHWUjQdQ_YD6-5" target="LnnYWxtxsYJN01czpEKV-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="390" as="sourcePoint" />
+            <mxPoint x="50" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-46" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a41Xc3c4UvRuNH48oTIH-8" target="LnnYWxtxsYJN01czpEKV-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="510" as="sourcePoint" />
+            <mxPoint x="430" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-48" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LnnYWxtxsYJN01czpEKV-41" target="LnnYWxtxsYJN01czpEKV-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="510" as="sourcePoint" />
+            <mxPoint x="430" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-49" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LnnYWxtxsYJN01czpEKV-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="440" as="sourcePoint" />
+            <mxPoint x="465" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-50" value="" style="endArrow=classic;html=1;entryX=0.4;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LnnYWxtxsYJN01czpEKV-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466" y="400" as="sourcePoint" />
+            <mxPoint x="430" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="466" y="418" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="580" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-54" value="Modellek alkalmazása" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="580" width="92.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-55" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.993;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LnnYWxtxsYJN01czpEKV-44" target="LnnYWxtxsYJN01czpEKV-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="540" as="sourcePoint" />
+            <mxPoint x="430" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-56" value="Keresztvalidáció" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="585" width="91.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-58" value="Modell betanítása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="635" width="77.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-59" value="Szálláshely árak meghatározása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273.75" y="640" width="106.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-60" value="Eredmények kiértékelése" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="181.25" y="690" width="85" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-61" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LnnYWxtxsYJN01czpEKV-56" target="LnnYWxtxsYJN01czpEKV-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="630" as="sourcePoint" />
+            <mxPoint x="430" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-62" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LnnYWxtxsYJN01czpEKV-58" target="LnnYWxtxsYJN01czpEKV-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="630" as="sourcePoint" />
+            <mxPoint x="430" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-63" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LnnYWxtxsYJN01czpEKV-59" target="LnnYWxtxsYJN01czpEKV-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="630" as="sourcePoint" />
+            <mxPoint x="430" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-64" value="Eredmények kiiratása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284.37" y="700" width="86.88" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-67" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LnnYWxtxsYJN01czpEKV-64" target="VDja91TDTHWUjQdQ_YD6-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="630" as="sourcePoint" />
+            <mxPoint x="10" y="215" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="328" y="780" />
+              <mxPoint x="10" y="780" />
+              <mxPoint x="10" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnnYWxtxsYJN01czpEKV-68" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LnnYWxtxsYJN01czpEKV-60" target="LnnYWxtxsYJN01czpEKV-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="660" as="sourcePoint" />
+            <mxPoint x="430" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
