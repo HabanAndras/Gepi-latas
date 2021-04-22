@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T08:42:38.164Z" agent="5.0 (Windows)" etag="Dq_f_ONUMTbCcGgAnkJx" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T08:46:42.439Z" agent="5.0 (Windows)" etag="L4xXoRZercWvLAt_s-2p" version="14.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,8 +136,8 @@
         <mxCell id="tq0yo84my99M850M_xK6-65" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1. eredmény&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="167.5" y="290" width="104" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tq0yo84my99M850M_xK6-66" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Eredmények átlaga&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="312.5" y="350" width="133" height="30" as="geometry" />
+        <mxCell id="tq0yo84my99M850M_xK6-66" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Eredmények átlagolása&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300.25" y="350" width="157.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tq0yo84my99M850M_xK6-67" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tq0yo84my99M850M_xK6-65" target="tq0yo84my99M850M_xK6-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
