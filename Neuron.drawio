@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T12:03:56.147Z" agent="5.0 (Windows)" etag="nZ-xaeGz4X1aS4tNGvqS" version="14.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-23T12:08:57.898Z" agent="5.0 (Windows)" etag="BLIfuKLTWqUj6JpnIgNf" version="14.6.5" type="github">
   <diagram id="SEkUxVBlZV0t0VTPhI_C" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XUO-qC5Vw12gNC_VjcX8-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Függvény&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="80" height="80" as="geometry" />
+        <mxCell id="XUO-qC5Vw12gNC_VjcX8-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Transzferfüggvény&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="344" y="130" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="XUO-qC5Vw12gNC_VjcX8-2" value="" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XUO-qC5Vw12gNC_VjcX8-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -37,11 +37,11 @@
         <mxCell id="XUO-qC5Vw12gNC_VjcX8-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XUO-qC5Vw12gNC_VjcX8-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="280" as="sourcePoint" />
-            <mxPoint x="560" y="200" as="targetPoint" />
+            <mxPoint x="600" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XUO-qC5Vw12gNC_VjcX8-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Kimenet&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="187.5" width="80" height="25" as="geometry" />
+          <mxGeometry x="600" y="187.5" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
