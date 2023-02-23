@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T10:59:09.081Z" agent="5.0 (Windows)" etag="-gAv64U63UkQ8yCm_aLP" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T11:06:38.784Z" agent="5.0 (Windows)" etag="6_KJcCt4Spg2lVIi4T4w" version="20.8.23" type="github">
   <diagram name="1 oldal" id="frzoha-sSFbWyBRJqYV1">
     <mxGraphModel dx="1050" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,6 +48,21 @@
               <mxPoint x="285" y="415" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="f_jFxjglcS5LHNjJjFDD-12" value="&lt;b&gt;Nem&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="390" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_jFxjglcS5LHNjJjFDD-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f_jFxjglcS5LHNjJjFDD-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="690" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_jFxjglcS5LHNjJjFDD-14" value="&lt;b&gt;Igen&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="390" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_jFxjglcS5LHNjJjFDD-16" value="&lt;b&gt;Validáció&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="385" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
